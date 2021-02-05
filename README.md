@@ -16,6 +16,8 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 * Interpret the statistical model to estimate the impact of each factor leading to CKD.
 
+*NOTE:* Data is not allowed to be published in public.
+
 ## CONCEPTUAL Model
 
 ![GitHub Logo](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/conceptual_model.PNG)
@@ -48,3 +50,4 @@ Built the logistic regression model to understand the relation the between *vari
 
 ## RESULTS
 
+Factors like AGE, RACE(hispanic), HDL levels, HYPERTENSION, DIABETES and CARDIO VASCULAR DISEASES proved to be the significant predictors for the target variable.
