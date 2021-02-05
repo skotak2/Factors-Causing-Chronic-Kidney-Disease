@@ -18,7 +18,7 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 ## CONCEPTUAL Model
 
-![GitHub Logo](conceptual_model.PNG)
+![GitHub Logo](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/conceptual_model.PNG)
 
 ## VARIABLE SELECTION
 
@@ -36,15 +36,15 @@ Chi – Square test to identify the relation between categorical variables and t
 
 T-test to identify the relationship with target variables and the variable under consideration
 
-![GitHub Logo](data_exp.PNG)
+![GitHub Logo](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/data_exp.PNG)
 
 ## LOGISTIC REGRESSION
 
 Built the logistic regression model to understand the relation the between *variables* (predictors for the chronic kidney disorder) and the *traget variable* (weather an individual is affected or not)
 
-![GitHub](Logistic Regression.PNG)
+![GitHub](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/Logistic%20Regression.PNG)
 
-![GitHub](results.PNG)
+![GitHub](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/results.PNG)
 
 ## RESULTS
 
