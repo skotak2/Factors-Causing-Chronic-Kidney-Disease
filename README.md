@@ -3,10 +3,10 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 ### TABLE OF CONTENTS
 * [Objective](#objective)
-* [Conceptual Model](#conceptual model)
-* [Variable Selection](#variable selection)
-* [Data Exploration](#data exploration)
-* [Logistic Regression Model](#logistic regression model)
+* [Conceptual Model](#conceptual_model)
+* [Variable Selection](#variable_selection)
+* [Data Exploration](#data_exploration)
+* [Logistic Regression Model](#logistic_regression_model)
 * [Results](#results)
 
 ## OBJECTIVE 
@@ -18,7 +18,7 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 ## CONCEPTUAL Model
 
-![GitHub Logo](conceptual_model.PNG)
+![GitHub Logo](conceptual_model.png)
 
 ## VARIABLE SELECTION
 
