@@ -16,7 +16,7 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 * Interpret the statistical model to estimate the impact of each factor leading to CKD.
 
-*NOTE:* Data is not allowed to be published in public.
+*NOTE:* Data is restricted for public access
 
 ## CONCEPTUAL Model
 
